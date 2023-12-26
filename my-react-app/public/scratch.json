@@ -1,0 +1,65 @@
+[
+  {
+    "eventID": 2,
+    "eventName": "Conference",
+    "eventDate": "2023-12-05",
+    "eventTime": "09:30:00",
+    "venueID": "V002"
+  },
+  {
+    "eventID": 3,
+    "eventName": "Music Festival",
+    "eventDate": "2023-12-10",
+    "eventTime": "20:00:00",
+    "venueID": "V003"
+  },
+  {
+    "eventID": 4,
+    "eventName": "Sports Tournament",
+    "eventDate": "2023-12-15",
+    "eventTime": "14:00:00",
+    "venueID": "V004"
+  },
+  {
+    "eventID": 5,
+    "eventName": "Art Exhibition",
+    "eventDate": "2023-12-20",
+    "eventTime": "10:00:00",
+    "venueID": "V005"
+  },
+  {
+    "eventID": 6,
+    "eventName": "Wedding Ceremony",
+    "eventDate": "2023-12-25",
+    "eventTime": "16:30:00",
+    "venueID": "V006"
+  },
+  {
+    "eventID": 7,
+    "eventName": "Tech Meetup",
+    "eventDate": "2023-12-30",
+    "eventTime": "19:00:00",
+    "venueID": "V007"
+  },
+  {
+    "eventID": 8,
+    "eventName": "Comedy Show",
+    "eventDate": "2024-01-05",
+    "eventTime": "21:00:00",
+    "venueID": "V008"
+  },
+  {
+    "eventID": 9,
+    "eventName": "Fashion Show",
+    "eventDate": "2024-01-10",
+    "eventTime": "18:30:00",
+    "venueID": "V009"
+  },
+  {
+    "eventID": 10,
+    "eventName": "Food Festival",
+    "eventDate": "2024-01-15",
+    "eventTime": "12:00:00",
+    "venueID": "V010"
+  }
+]
